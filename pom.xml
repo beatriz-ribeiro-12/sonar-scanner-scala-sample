@@ -26,6 +26,11 @@
     <scoverage.plugin.version>1.4.11</scoverage.plugin.version>
     <skipTests>true</skipTests>
     <maven.test.skip>true</maven.test.skip>
+
+    <!-- sonarcloud config -->
+      <sonar.organization>beatriz-ribeiro-12</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
   </properties>
 
   <dependencies>
