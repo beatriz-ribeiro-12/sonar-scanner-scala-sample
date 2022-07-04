@@ -1,0 +1,18 @@
+### Scala ###
+*.log
+*.class
+
+### Maven ###
+target
+
+### IntelliJ ###
+.idea
+*.iml
+*.so
+*.ipr
+*.iws
+logs
+.DS_Store
+
+### VSCode ###
+.vscode
